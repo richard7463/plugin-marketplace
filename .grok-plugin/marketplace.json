@@ -268,16 +268,16 @@
       "keywords": ["pstack", "poteto-mode", "poteto"]
     },
     {
-      "name": "ask-wallet",
-      "description": "A governed wallet for AI agents: plain-English policies, a human approval inbox, and signed receipts for every spend.",
+      "name": "askgrokwallet",
+      "description": "A governed wallet for Grok agents (and any AI agent): plain-English policies, a human approval inbox, and signed receipts for every spend.",
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/richard7463/ask-wallet.git",
-        "sha": "2ad21c955fab35f45c64fe5e2f77f8b07a6169e8"
+        "url": "https://github.com/askgrokwallet/askgrokwallet.git",
+        "sha": "197c433199767892984f73151c6f66d7c380bea8"
       },
-      "homepage": "https://github.com/richard7463/ask-wallet",
-      "keywords": ["ask-wallet", "governed wallet", "agent approval", "human in the loop", "policy engine"]
+      "homepage": "https://github.com/askgrokwallet/askgrokwallet",
+      "keywords": ["askgrokwallet", "governed wallet", "grok wallet", "agent approval", "human in the loop", "policy engine"]
     }
   ]
 }

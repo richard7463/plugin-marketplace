@@ -1,14 +1,14 @@
 {
   "version": 1,
   "plugins": {
-    "ask-wallet": {
-      "sha": "2ad21c955fab35f45c64fe5e2f77f8b07a6169e8",
+    "askgrokwallet": {
+      "sha": "197c433199767892984f73151c6f66d7c380bea8",
       "version": "0.1.0",
       "components": {
         "skills": [
           {
-            "name": "ask-wallet",
-            "description": "A governed wallet for AI agents. Enforce budgets, allowlists, operator modes, and human approval before money or conseq…"
+            "name": "askgrokwallet",
+            "description": "A governed wallet for Grok agents (and any AI agent). Enforce budgets, allowlists, operator modes, and human approval b…"
           }
         ]
       }
