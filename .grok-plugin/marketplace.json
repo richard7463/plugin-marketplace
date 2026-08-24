@@ -274,7 +274,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/askgrokwallet/askgrokwallet.git",
-        "sha": "197c433199767892984f73151c6f66d7c380bea8"
+        "sha": "f5ea8c67f3ef157b8ec884e5984cf4541fa38a5d"
       },
       "homepage": "https://github.com/askgrokwallet/askgrokwallet",
       "keywords": ["askgrokwallet", "governed wallet", "grok wallet", "agent approval", "human in the loop", "policy engine"]
