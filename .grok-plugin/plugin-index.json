@@ -1,6 +1,18 @@
 {
   "version": 1,
   "plugins": {
+    "agent-gate": {
+      "sha": "e8bbd4af0706c7dc9cb7d5fdb43d726ff37fb4a3",
+      "version": "0.1.0",
+      "components": {
+        "skills": [
+          {
+            "name": "agent-gate",
+            "description": "Governed spending and actions for AI agents. Enforce budgets, allowlists, operator modes, and human approval before mon…"
+          }
+        ]
+      }
+    },
     "axiom": {
       "sha": "0e98ebaeec76a70c8fda9a7737605800c2f1245d",
       "version": "1.0.0",

@@ -266,6 +266,18 @@
       },
       "homepage": "https://github.com/cursor/plugins/tree/main/pstack",
       "keywords": ["pstack", "poteto-mode", "poteto"]
+    },
+    {
+      "name": "agent-gate",
+      "description": "Governed spending and actions for AI agents: plain-English policies, a human approval inbox, and signed receipts for every outcome.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/richard7463/agent-gate.git",
+        "sha": "e8bbd4af0706c7dc9cb7d5fdb43d726ff37fb4a3"
+      },
+      "homepage": "https://github.com/richard7463/agent-gate",
+      "keywords": ["agent-gate", "governed spending", "agent approval", "human in the loop", "policy engine"]
     }
   ]
 }
