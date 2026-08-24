@@ -268,16 +268,16 @@
       "keywords": ["pstack", "poteto-mode", "poteto"]
     },
     {
-      "name": "agent-gate",
-      "description": "Governed spending and actions for AI agents: plain-English policies, a human approval inbox, and signed receipts for every outcome.",
+      "name": "ask-wallet",
+      "description": "A governed wallet for AI agents: plain-English policies, a human approval inbox, and signed receipts for every spend.",
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/richard7463/agent-gate.git",
-        "sha": "e8bbd4af0706c7dc9cb7d5fdb43d726ff37fb4a3"
+        "url": "https://github.com/richard7463/ask-wallet.git",
+        "sha": "2ad21c955fab35f45c64fe5e2f77f8b07a6169e8"
       },
-      "homepage": "https://github.com/richard7463/agent-gate",
-      "keywords": ["agent-gate", "governed spending", "agent approval", "human in the loop", "policy engine"]
+      "homepage": "https://github.com/richard7463/ask-wallet",
+      "keywords": ["ask-wallet", "governed wallet", "agent approval", "human in the loop", "policy engine"]
     }
   ]
 }

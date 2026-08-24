@@ -1,14 +1,14 @@
 {
   "version": 1,
   "plugins": {
-    "agent-gate": {
-      "sha": "e8bbd4af0706c7dc9cb7d5fdb43d726ff37fb4a3",
+    "ask-wallet": {
+      "sha": "2ad21c955fab35f45c64fe5e2f77f8b07a6169e8",
       "version": "0.1.0",
       "components": {
         "skills": [
           {
-            "name": "agent-gate",
-            "description": "Governed spending and actions for AI agents. Enforce budgets, allowlists, operator modes, and human approval before mon…"
+            "name": "ask-wallet",
+            "description": "A governed wallet for AI agents. Enforce budgets, allowlists, operator modes, and human approval before money or conseq…"
           }
         ]
       }
