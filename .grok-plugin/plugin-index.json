@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "askgrokwallet": {
-      "sha": "8413c581e5c20738d5501a326caf54a594b746da",
+      "sha": "bc46298b059352171490390584fd895d92649a48",
       "version": "0.1.0",
       "components": {
         "skills": [
